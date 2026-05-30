@@ -1,57 +1,62 @@
-<h1 align="center">👋 Olá, eu sou Jhone Bezerra</h1>
+👋 Olá, eu sou Jhone Bezerra!
 
-<h3 align="center">💻 Estudante de Engenharia de Software</h3>
+💻 Estudante de Engenharia de Software
 
-<p align="center">
-🚀 Em transição para a área de Tecnologia
-</p>
+🚀 Desenvolvedor Back-End em formação
+
+📍 Paraná, Brasil
 
 ---
 
-## 🙋‍♂️ Sobre Mim
+🧑‍💻 Sobre mim
 
 Sou estudante de Engenharia de Software e apaixonado por tecnologia.
 
-Atualmente busco desenvolver minhas habilidades em programação, desenvolvimento de sistemas e boas práticas de desenvolvimento.
+Atualmente estou desenvolvendo habilidades em programação, lógica de programação, desenvolvimento de sistemas e ferramentas voltadas para a área de tecnologia.
 
-Tenho experiência profissional como Assistente de Linha, o que me proporcionou disciplina, responsabilidade e trabalho em equipe.
+Tenho experiência profissional como Assistente de Linha, onde desenvolvi disciplina, responsabilidade, organização e trabalho em equipe.
+
+Aqui no GitHub compartilho meus projetos, estudos e minha evolução na área de TI.
 
 ---
 
-## 🎓 Formação
+🎓 Formação
 
 - Gestão de Cooperativas
 - Engenharia de Software
 - Cursos de Programação
+- Desenvolvimento Web
 
 ---
 
-## 🛠️ Tecnologias em estudo
+🚀 Tecnologias em Aprendizado
 
-- Python
-- Java
-- Git
-- GitHub
-- Banco de Dados
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  
+</p>---
+
+📊 Estatísticas GitHub
+
+"GitHub Stats" (https://github-readme-stats.vercel.app/api?username=jhonecosta13&show_icons=true&theme=tokyonight)
+
+"Top Langs" (https://github-readme-stats.vercel.app/api/top-langs/?username=jhonecosta13&layout=compact&theme=tokyonight)
 
 ---
 
-## 📊 Estatísticas GitHub
+🎯 Objetivo
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jhonecosta13&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jhonecosta13&layout=compact&theme=tokyonight)
+Busco uma oportunidade na área de Tecnologia da Informação para desenvolver minhas habilidades técnicas, adquirir experiência prática e contribuir com soluções que gerem valor para as empresas.
 
 ---
 
-## 📫 Contato
+📫 Contato
 
 📧 jhonecosta13@gmail.com
 
 💼 LinkedIn: linkedin.com/in/jhonebezerra
 
-📸 Instagram: @jhonebz
-
-
-
-<
+🐙 GitHub: github.com/jhonecosta13
