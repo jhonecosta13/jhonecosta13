@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou Jhone Bezerra!</h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Full+Stack+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />---
+<h1 align="left">👋 Olá, eu sou Jhone Bezerra!</h1><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=36BCF7&width=700&lines=Estudante+de+Engenharia+de+Software;Desenvolvedor+Back+End+em+Forma%C3%A7%C3%A3o;Apaixonado+por+Tecnologia;Sempre+aprendendo+algo+novo" />---
 
 <h3 align="left">👨‍💻 Sobre mim</h3>
 
