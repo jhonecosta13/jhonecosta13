@@ -9,6 +9,7 @@
 📚 Aprendendo Java, Python 
 
 📍 Paraná - Brasil
+
 Sou estudante de Engenharia de Software e apaixonado por tecnologia.
 Atualmente estou desenvolvendo habilidades em programação, lógica de programação, desenvolvimento de sistemas e ferramentas voltadas para a área de tecnologia.
 Tenho experiência profissional como Assistente de Linha, onde desenvolvi disciplina, responsabilidade, organização ,liderança e trabalho em equipe.
@@ -50,4 +51,4 @@ Aqui no GitHub compartilho meus projetos, estudos e minha evolução na área de
 
 👀 Visitantes
 
-https://komarev.com/ghpvc/?username=jhonecosta13&color=blue
+<img src="https://komarev.com/ghpvc/?username=jhonecosta13&color=blue" alt="Contador de visitantes" />
